@@ -23,6 +23,7 @@
 *.sct
 *.htm
 *.html
+*.tmp
 
 # Logs
 *.build_log
